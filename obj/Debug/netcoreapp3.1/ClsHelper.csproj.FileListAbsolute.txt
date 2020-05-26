@@ -1,0 +1,11 @@
+C:\Users\guoguo\Desktop\ClsHelper\obj\Debug\netcoreapp3.1\ClsHelper.csprojAssemblyReference.cache
+C:\Users\guoguo\Desktop\ClsHelper\obj\Debug\netcoreapp3.1\ClsHelper.AssemblyInfoInputs.cache
+C:\Users\guoguo\Desktop\ClsHelper\obj\Debug\netcoreapp3.1\ClsHelper.AssemblyInfo.cs
+C:\Users\guoguo\Desktop\ClsHelper\bin\Debug\netcoreapp3.1\ClsHelper.exe
+C:\Users\guoguo\Desktop\ClsHelper\bin\Debug\netcoreapp3.1\ClsHelper.deps.json
+C:\Users\guoguo\Desktop\ClsHelper\bin\Debug\netcoreapp3.1\ClsHelper.runtimeconfig.json
+C:\Users\guoguo\Desktop\ClsHelper\bin\Debug\netcoreapp3.1\ClsHelper.runtimeconfig.dev.json
+C:\Users\guoguo\Desktop\ClsHelper\bin\Debug\netcoreapp3.1\ClsHelper.dll
+C:\Users\guoguo\Desktop\ClsHelper\bin\Debug\netcoreapp3.1\ClsHelper.pdb
+C:\Users\guoguo\Desktop\ClsHelper\obj\Debug\netcoreapp3.1\ClsHelper.dll
+C:\Users\guoguo\Desktop\ClsHelper\obj\Debug\netcoreapp3.1\ClsHelper.pdb
